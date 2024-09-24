@@ -269,3 +269,6 @@ git branch -M main
 Borrar un archivo del repositorio
 
 git rm <archivo>
+
+
+fin
