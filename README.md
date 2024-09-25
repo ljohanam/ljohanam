@@ -4,7 +4,7 @@ Hello! I'm a passionate Bioinfo developer with a keen focus on Java and Angular.
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
-##languajes
-Spanish
-Portuguese
-English
+## Languages
+1. Spanish
+1. Portuguese
+1. English
