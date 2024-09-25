@@ -259,8 +259,7 @@ Borrar un archivo del repositorio
 
 git rm <archivo>
 
-cambiar el nombre de una rama
-
+### cambiar el nombre de una rama
 
 git branch -M main
 
@@ -269,6 +268,3 @@ git branch -M main
 Borrar un archivo del repositorio
 
 git rm <archivo>
-
-
-fin
