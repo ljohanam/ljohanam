@@ -268,3 +268,19 @@ git branch -M main
 Borrar un archivo del repositorio
 
 git rm <archivo>
+
+## Git remote
+
+git remote add origin https://github.com/nickname/nickname.git
+
+- para github se debe cambiar el "master" a "main"
+
+git branch -M master
+
+- subir cambios al repositorio remoto 
+
+git push -u origin master
+
+- subir una rama 
+
+git push origin develop
