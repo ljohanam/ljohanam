@@ -281,6 +281,13 @@ git branch -M master
 
 git push -u origin master
 
-- subir una rama 
+- subir una rama al repositorio remoto
 
 git push origin develop
+
+- descargar una rama al repositorio local
+
+git fetch   
+git pull
+
+git commit -am "mensaje" # Hace add y commit a la vez
